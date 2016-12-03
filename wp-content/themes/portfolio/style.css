@@ -1,0 +1,12 @@
+.container {
+    width: 2230px;
+    height: 504px;
+    background-color: #000000;    
+}
+
+.img_header {
+    width: 2230px;
+    height: 504px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
